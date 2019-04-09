@@ -1,0 +1,10 @@
+*.class
+*.zip
+*.jar
+*.docx
+words.txt
+words/
+/*/bin/
+/*/target/
+/target/
+tasks.txt
